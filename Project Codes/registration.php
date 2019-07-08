@@ -17,24 +17,24 @@
     	
         <div>
         	<label for="User Name">User Name :</label>
-        	<input type="text" name="User Name">
+        	<input type="text" name="User Name" required>
         </div>
 
         <div>
         	<label for="Email">Email :</label>
-        	<input type="text" name="Email">
+        	<input type="text" name="Email" required>
         </div>
 
          <div>
         	<label for="Password">Password :</label>
-        	<input type="password" name="password_1">
+        	<input type="password" name="password_1" required>
         </div>
 
          
 
          <div>
         	<label for="User Name">Confirm Password :</label>
-        	<input type="password" name="password_2">
+        	<input type="password" name="password_2" required>
         </div>
 
         <button type="submit">Submit</button>
