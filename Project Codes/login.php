@@ -17,21 +17,21 @@
     	
         <div>
         	<label for="User Name">User Name :</label>
-        	<input type="text" name="User Name">
+        	<input type="text" name="User Name" required>
         </div>
 
        
 
          <div>
         	<label for="Password">Password :</label>
-        	<input type="password" name="password_1">
+        	<input type="password" name="password_1" required>
         </div>
 
          
 
          
 
-        <button type="submit">Log In</button>
+        <button type="submit" name="login_user">Log In</button>
 
         <p>Already a user <a href="registration.php"><b>Register Here</b></a></p>
 
