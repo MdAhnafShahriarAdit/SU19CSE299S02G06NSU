@@ -16,28 +16,28 @@
     <form action="registration.php" method="post">
     	
         <div>
-        	<label for="User Name">User Name :</label>
-        	<input type="text" name="User Name" required>
+        	<label for="username">User Name :</label>
+        	<input type="text" name="username" required>
         </div>
 
         <div>
-        	<label for="Email">Email :</label>
-        	<input type="text" name="Email" required>
+        	<label for="email">Email :</label>
+        	<input type="text" name="email" required>
         </div>
 
          <div>
-        	<label for="Password">Password :</label>
+        	<label for="password">Password :</label>
         	<input type="password" name="password_1" required>
         </div>
 
          
 
          <div>
-        	<label for="User Name">Confirm Password :</label>
+        	<label for="password">Confirm Password :</label>
         	<input type="password" name="password_2" required>
         </div>
 
-        <button type="submit">Submit</button>
+        <button type="submit" name="reg_user">Submit</button>
 
         <p>Already a user <a href="login.php"><b>Log in</b></a></p>
 
