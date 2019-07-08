@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Registration</title>
+	<title>Log In</title>
 </head>
 <body>
 	
@@ -10,7 +10,7 @@
 <div class="container">
 	
     <div class="header">
-    	<h2>Register</h2>
+    	<h2>Log In</h2>
     </div>
 
     <form action="registration.php" method="post">
@@ -20,10 +20,7 @@
         	<input type="text" name="User Name">
         </div>
 
-        <div>
-        	<label for="Email">Email :</label>
-        	<input type="text" name="Email">
-        </div>
+       
 
          <div>
         	<label for="Password">Password :</label>
@@ -32,14 +29,11 @@
 
          
 
-         <div>
-        	<label for="User Name">Confirm Password :</label>
-        	<input type="password" name="password_2">
-        </div>
+         
 
-        <button type="submit">Submit</button>
+        <button type="submit">Log In</button>
 
-        <p>Already a user <a href="login.php"><b>Log in</b></a></p>
+        <p>Already a user <a href="registration.php"><b>Register Here</b></a></p>
 
     </form>
 
