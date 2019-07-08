@@ -16,24 +16,24 @@
     <form action="registration.php" method="post">
     	
         <div>
-        	<label for="username">User Name :</label>
+        	<label for="username">User Name : </label>
         	<input type="text" name="username" required>
         </div>
 
         <div>
-        	<label for="email">Email :</label>
+        	<label for="email">Email : </label>
         	<input type="text" name="email" required>
         </div>
 
          <div>
-        	<label for="password">Password :</label>
+        	<label for="password">Password : </label>
         	<input type="password" name="password_1" required>
         </div>
 
          
 
          <div>
-        	<label for="password">Confirm Password :</label>
+        	<label for="password">Confirm Password : </label>
         	<input type="password" name="password_2" required>
         </div>
 
