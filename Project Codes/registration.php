@@ -34,7 +34,7 @@
 
          <div>
         	<label for="password">Confirm Password : </label>
-        	<input type="password" name="password_2" required>
+        	<input type="password" name="password_2"  required>
         </div>
 
         <button type="submit" name="reg_user">Submit</button>
@@ -47,4 +47,4 @@
 
 
 </body>
-</html>
+</html> 
