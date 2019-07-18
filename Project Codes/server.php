@@ -12,7 +12,7 @@ session_start();
   $db = mysql_connect('localhost','root','','menstrualcycle') or die(could not connect to data base);
 
 
-//Register users
+//Register users 
 
   $username =mysql_real_escape_string($db, $_POST['username']);
   $email =mysql_real_escape_string($db, $_POST['email']);
@@ -21,7 +21,7 @@ session_start();
 
 
 
-  // form validation
+  // form validation 
   if (empty($username)) {
   	array_push($errors, "Username is required")
   };
@@ -51,64 +51,18 @@ session_start();
   	if ($user['email'] === $email){array_push($errors, "Email already exist");} 
   }
 
+  //Register The user if no error
 
+  if (count($errors)== 0) {
+  	$password = md5($password_1);//this will encrypt the password
+  	$query = "INSERT INTO user (User Name,Email,Password) VALUES ('$username', '$email' , 'password')";
 
+  	mysqli_query($db,$query);
+  	$_SESSION['username']=$username;
+  	$_SESSION['success']= "You are now logged in";
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  	header('location: index.php');
+  }
 
 
  ?>
