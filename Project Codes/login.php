@@ -17,7 +17,7 @@
     	
         <div>
         	<label for="username">User Name : </label>
-        	<input type="text" name="username" required>
+        	<input type="text" name="username"  required>
         </div>
 
        
