@@ -13,7 +13,7 @@
     	<h2>Register</h2>
     </div>
 
-    <form action="registration.php" method="post">
+    <form action="registration.php"  method="post">
     	
         <div>
         	<label for="username">User Name : </label>
