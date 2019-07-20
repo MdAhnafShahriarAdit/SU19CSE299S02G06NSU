@@ -9,7 +9,7 @@ session_start();
   $errors = array();
   // connect to Data base
 
-  $db = mysql_connect('localhost','root','','menstrualcycle') or die(could not connect to data base);
+  $db = mysql_connect('localhost','root','','menstrualcycle') or die("could not connect to data base");
 
 
 //Register users 
@@ -22,6 +22,7 @@ session_start();
 
 
   // form validation 
+<<<<<<< Updated upstream
   if (empty($username)) {
   	array_push($errors, "Username is required")
   };
@@ -36,6 +37,12 @@ session_start();
   if($password_1 != $password_2){
   	array_push($errors,"Passwords need to be the same")
   };
+=======
+   if (empty($username)) {array_push($errors, "Username is required")};
+   if (empty($email)) {array_push($errors, "Email is required")};
+   if (empty($password_1)) {array_push($errors, "Password is required")};
+   if($password_1 != $password_2){array_push($errors,"Passwords need to be the same")};
+>>>>>>> Stashed changes
 
   //check db for same user name
 
