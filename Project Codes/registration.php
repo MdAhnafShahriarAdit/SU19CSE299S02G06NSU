@@ -15,11 +15,8 @@
     </div>
 
     <form action="registration.php"  method="post">
-<<<<<<< Updated upstream
-=======
 
         <?php include('errors.php') ?>
->>>>>>> Stashed changes
     	
         <div>
         	<label for="username">User Name : </label>
