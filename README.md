@@ -4,7 +4,7 @@
 <p align="center">
   <img width="200" height="200" src="https://media.licdn.com/dms/image/C560BAQEFJPl7DXD1Dg/company-logo_200_200/0?e=2159024400&v=beta&t=4wzyvb7GBsvMovoet_LGS9uj_Gso_kmfWqCXnqydCDI">
 
-# &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;CSE299 Junior Design Project 
+#&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;CSE299 Junior Design Project 
 
 ## &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Project Name: Period Calendar and product delivery
 
