@@ -137,7 +137,7 @@ This is not intended to be medical advice. Everybody is different so please make
             <li class="active"><a href="">Payment</a></li>
             <li class="active"><a href="">Health Tips</a></li>
             <li class="active"><a href="contact.php">Contact</a></li>
-            <li class="active"><a href="registration"></a>Register</li>
+            <li class="active"><a href="registration.php">Register</a></li>
            <li class="active"><a href="login.php?logout='1'" style="color: red;">logout</a> <li></li>
           
       
