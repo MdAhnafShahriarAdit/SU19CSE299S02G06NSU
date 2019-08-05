@@ -83,76 +83,63 @@
 This is not intended to be medical advice. Everybody is different so please make sure to consult your physician if you're having issues. Do not delay or refrain from seeking professional medical advice from your physician because of something you have read on this site.. <br> We always try to keep our website up to date.<br> We belive in user satisfaction</p>
             <hr class="bottom-line">
           </div>
-         
+          <div class="feature-info">
+            <div class="fea">
+              <div class="col-md-4">
+                <div class="heading pull-right">
+                  <h4>Products</h4>
+                  <p>Donec et lectus bibendum dolor dictum auctor in ac erat. Vestibulum egestas sollicitudin metus non urna in eros tincidunt convallis id id nisi in interdum.</p>
+                </div>
+                <div class="fea-img pull-left">
+                  <i class="fa fa-css3"></i>
+                </div>
+              </div>
+            </div>
+            <div class="fea">
+              <div class="col-md-4">
+                <div class="heading pull-right">
+                  <h4>Medicines</h4>
+                  <p>Donec et lectus bibendum dolor dictum auctor in ac erat. Vestibulum egestas sollicitudin metus non urna in eros tincidunt convallis id id nisi in interdum.</p>
+                </div>
+                <div class="fea-img pull-left">
+                  <i class="fa fa-drupal"></i>
+                </div>
+              </div>
+            </div>
+            <div class="fea">
+              <div class="col-md-4">
+                <div class="heading pull-right">
+                  <h4>Health Care Tips</h4>
+                  <p>Donec et lectus bibendum dolor dictum auctor in ac erat. Vestibulum egestas sollicitudin metus non urna in eros tincidunt convallis id id nisi in interdum.</p>
+                </div>
+                <div class="fea-img pull-left">
+                  <i class="fa fa-trophy"></i>
+                </div>
+              </div>
+            </div>
+         </div>
         </div>
       </div>
     </section>
     <!--/ feature-->
 
- <!-- EVERYTHING YOU NEED TO KNOW ABOUT PERIODS -->
-
-<div class="who_why">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="who_why_title">
-          <img src="img/who_why.jpg" alt="">
-          <h2>EVERYTHING YOU NEED TO KNOW ABOUT PERIODS</h2>
-        </div>
-        <div class="who_why_content">
-          <p>From super–informative articles to real answers from three perspectives — a peer, a mom, and a health expert — you'll find everything you need to know about periods.
-This is not intended to be medical advice. Everybody is different so please make sure to consult your physician if you're having issues. Do not delay or refrain from seeking professional medical advice from your physician because of something you have read on this site..</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- EVERYTHING YOU NEED TO KNOW ABOUT PERIODS -->
-
-<!-- Feature start -->
-
-  <div class="feature-area">
-    <div class="container">
-      <div class="row">
-        <!-- <div class="col-md-12"> -->
-          <div class="col-md-4">
-            <div class="single-feature-box">
-              <img src="img/clock.png" alt="">
-              <h4>An Wow Feature</h4>
-              <p>The gentlemen who rented the room would sometimes take their evening meal at home in the living.</p>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="single-feature-box">
-              <img src="img/some.png" alt="">
-              <h4>An Amazing Feature</h4>
-              <p>The gentlemen who rented the room would sometimes take their evening meal at home in the living.</p>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="single-feature-box">
-              <img src="img/gari.png" alt="">
-              <h4>A Beautiful Feature</h4>
-              <p>The gentlemen who rented the room would sometimes take their evening meal at home in the living.</p>
-            </div>
-          </div>
-        </div>
-      <!-- </div> -->
-
-    </div>
-  </div>
-
-<!-- Feature end -->
+ 
 
 <!-- Footer Start -->
 <div class="footer">
   <div class="f_nav">
     <ul>
-      <li class="active"><a href="index.html">Home</a></li>     
-      <li><a href=""></a></li>
-            <li><a href="login.php">log In</a></li>
-            <li><a href="aboutus.php">About</a></li>
-            <li><a href="contact.php">Contact Us</a></li>
+     
+             <li class="active"><a href="index.php">Home</a></li>
+            <li class="active"><a href="">About Us</a></li>
+            <li class="active"><a href="">Product</a></li>
+            <li class="active"><a href="">Calender</a></li>
+            <li class="active"><a href="">Payment</a></li>
+            <li class="active"><a href="">Health Tips</a></li>
+            <li class="active"><a href="contact.php">Contact</a></li>
+            <li class="active"><a href="registration"></a>Register</li>
+           <li class="active"><a href="login.php?logout='1'" style="color: red;">logout</a> <li></li>
+          
       
             </ul>
   </div>
