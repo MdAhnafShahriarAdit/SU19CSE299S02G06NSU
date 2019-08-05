@@ -83,7 +83,22 @@
         <div class="clear"></div>
 <div class="ftr-bg">
 <div class="wrap">
-
+<div class="footer">
+	<div class="f_nav">
+		<ul>
+			<li class="active"><a href="index.html">Home</a></li>			
+			<li><a href=""></a></li>
+            <li><a href="login.php">log In</a></li>
+            <li><a href="aboutus.php">About</a></li>
+            <li><a href="contact.php">Contact Us</a></li>
+			
+            </ul>
+	</div>
+		<div class="copy">
+			<p class="title"> </p>
+		</div>
+	<div class="clear"></div>
+</div>
 </div>
 </div>
 
