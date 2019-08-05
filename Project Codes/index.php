@@ -21,7 +21,7 @@
 
         	 	<div class="logo ">
 
-        	 		<a href="index.html"><h3>MCCAPP.com</h3></a>
+        	 		<a href="index.html"><h3>NOBONI</h3></a>
         	 	</div>
 
         	 	<div class="menu ">
@@ -107,7 +107,29 @@ This is not intended to be medical advice. Everybody is different so please make
           </div>
         </div>
       <!-- </div> -->
+
     </div>
   </div>
 
 <!-- Feature end -->
+
+<!-- Footer Start -->
+<div class="footer">
+  <div class="f_nav">
+    <ul>
+      <li class="active"><a href="index.html">Home</a></li>     
+      <li><a href=""></a></li>
+            <li><a href="login.php">log In</a></li>
+            <li><a href="aboutus.php">About</a></li>
+            <li><a href="contact.php">Contact Us</a></li>
+      
+            </ul>
+  </div>
+    <div class="copy">
+      <p class="title"> </p>
+    </div>
+  <div class="clear"></div>
+</div>
+
+
+<!-- Footer end -->
