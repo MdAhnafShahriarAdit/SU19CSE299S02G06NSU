@@ -7,56 +7,70 @@
 
 	 <link rel="stylesheet" href="style.css">
 
-	<title></title>
+	<title>NOBONI</title>
 </head>
 <body>
 	
-<!-- Header Starts -->
- <header>
-<div class="container">
-	<div class="row">
-		
-        
-        	 <div class="header-top">
-
-        	 	<div class="logo ">
-
-        	 		<a href="index.html"><h3>NOBONI</h3></a>
-        	 	</div>
-
-        	 	<div class="menu ">
-
-        	 		<ul>
-        	 			<li><a href="#">Home</a></li>
-        	 			<li><a href="#">About</a></li>
-        	 			<li><a href="#">Products</a></li>
-        	 			<li><a href="#">Calender</a></li>
-        	 			<li><a href="#">Payment</a></li>
-        	 			<li><a href="#">Health Tips</a></li>
-        	 			<li><a href="#">Contact</a></li>
-        	 			<li><a href="#"><i class="fas fa-bars"></i></a></li>
-        	 		</ul>
-        	 		
-        	 	</div>
-        	 	
-        	 </div>	
-
-        	 <div class="header-content">
-        	 	<h2>About Us</h2>
-        	 	<p>Keep track of your menstrual cycles with Period Calendar. It tracks your periods, cycles, ovulation and the chance of conception. Period tracker helps both women looking to conceive and those trying to birth control.
-
-Period Tracker is useful, whether you have irregular periods or regular periods. It can track your chance of pregnancy every day. You can also record your cervical mucus, BMI, sexual activity, weight, temperature, symptoms or moods. Think of it as your personal period diary. It will help you get in shape, lose weight, and stay healthy.</p>
-
-        	 	<a href="#">read the rest</a>
-        	 	
-
-        	 </div>
-        
-
-	</div>
+  <!--Navigation bar-->
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <div class="wrap">
+<div class="header">
+    <div class="logo">
+      <h1><a href="index.php"><img src="Images/2.jpg" alt=""></a></h1>
+    </div>
+  </div>
 </div>
-</header>
- <!-- Header Ends -->
+</div>
+<div class="nav_bg">
+<div class="wrap">
+        </div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+        <ul class="nav navbar-nav navbar-right">
+             <li><a href=""></a>Home</li>
+            <li><a href=""></a>About Us</li>
+            <li><a href=""></a>Product</li>
+            <li><a href=""></a>Calender</li>
+            <li><a href=""></a>Payment</li>
+            <li><a href=""></a>Health Tips</li>
+            <li><a href=""></a>Contact</li>
+            <li><a href=""></a>Register</li>
+           <li><a href="login.php?logout='1'" style="color: red;">logout</a> <li></li>
+          
+        </ul>
+        </div>
+      </div>
+    </nav>
+    <!--/ Navigation bar-->
+
+     <!--Banner-->
+    <div class="banner">
+      <div class="bg-color">
+        <div class="container">
+          <div class="row">
+            <div class="banner-text text-center">
+              <div class="text-border">
+                <h2 class="text-dec">Welcome To NOBONI</h2>
+              </div>
+              <div class="intro-para text-center quote">
+                <p class="big-text">“It is quite a big deal. It's so extraordinary that we female humans should be linked to the moon and the tides. It'd sound like science fiction if you made it up – mysterious planetary forces making us bleed.”
+ </p>
+                <p class="small-text">― Sofka Zinovieff, Putney</p>
+                <a href="#footer" class="btn get-quote">GET A QUOTE</a>
+              </div>
+              <a href="#feature" class="mouse-hover"><div class="mouse"></div></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--/ Banner-->
 
  <!-- EVERYTHING YOU NEED TO KNOW ABOUT PERIODS -->
 
