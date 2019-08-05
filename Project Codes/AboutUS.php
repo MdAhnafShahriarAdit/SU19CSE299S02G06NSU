@@ -1,41 +1,159 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>NOBONI</title>
-<link href="css/lightbox.css" rel="stylesheet" />
-    <link href="StyleSheet.css" rel="stylesheet" type="text/css" />
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-<!--slider-->
-<link href="css/flexslider.css" rel="stylesheet" type="text/css" media="all" />
-     <script src="js/jquery-1.11.0.min.js"></script>
-	<script src="js/lightbox.min.js"></script>
-<script src="js/jquery-1.7.1.min.js" type="text/javascript"></script>
-<script src="js/jquery.flexslider.js" type="text/javascript"></script>
-  
- <script type="text/javascript">
-     $(function () {
-         SyntaxHighlighter.all();
-     });
-     $(window).load(function () {
-         $('.flexslider').flexslider({
-             animation: "slide",
-             animationLoop: false,
-             itemWidth: 210,
-             itemMargin: 5,
-             minItems: 2,
-             maxItems: 4,
-             start: function (slider) {
-                 $('body').removeClass('loading');
-             }
-         });
-     });
-  </script>
-</head>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" >
+    <link rel="stylesheet" href="style.css">
 
-<body>
-	
-</body>
+    <title>NOBONI</title>
+  </head>
+  <body>
+   
+<!-- Header Area Start -->
+<header> 
+<div class="container">
+  <div class="row">
+      
+          <div class="header-top">
+            <div class="logo">
+              <h1><a href="index.php"><img src="Images/2.jpg" alt=""></a></h1>
+            
+            </div>
+            <div class="menu">
+              <ul>
+     
+             <li class="active"><a href="index.php">Home</a></li>
+            <li class="active"><a href="AboutUS.php">About Us</a></li>
+            <li class="active"><a href="">Product</a></li>
+            <li class="active"><a href="">Calender</a></li>
+            <li class="active"><a href="">Payment</a></li>
+            <li class="active"><a href="">Health Tips</a></li>
+            <li class="active"><a href="contact.php">Contact</a></li>
+            <li class="active"><a href="registration.php">Register</a></li>
+           <li class="active"><a href="login.php?logout='1'" style="color: red;">logout</a> <li></li>
+          
+      
+            </ul>
+            </div>
+          </div>
+
+          <div class="header-content">
+            <h2> NOBONI নবণী </h2>
+            <p>
+            Our mission is to seamlessly elevate women’s health by leveraging the essential need for period tracking. 
+          </div>
+     
+  </div>
+</div>
+ </header>
+
+<!-- Header Area End -->
+
+<!-- Who and Why area start -->
+
+<div class="who_why">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="who_why_title">
+          <img src="img/who_why.jpg" alt="">
+          <h2>Who &amp; Why</h2>
+        </div>
+        <div class="who_why_content">
+          <p>The gentlemen who rented the room would sometimes take their evening meal at home in the living room that was used by everyone, and so the door to this room was often kept closed in the evening. But Gregor found it easy to give up having the door open, he had, after all, often failed to make use of it when it was open and, without the family having noticed it, lain in his room in its darkest corner. One time, though, the charwoman left the door.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Who and Why area end -->
+
+<!-- Feature start -->
+
+  <div class="feature-area">
+    <div class="container">
+      <div class="row">
+        <!-- <div class="col-md-12"> -->
+          <div class="col-md-4">
+            <div class="single-feature-box">
+              <img src="img/clock.png" alt="">
+              <h4>An Wow Feature</h4>
+              <p>The gentlemen who rented the room would sometimes take their evening meal at home in the living.</p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="single-feature-box">
+              <img src="img/some.png" alt="">
+              <h4>An Amazing Feature</h4>
+              <p>The gentlemen who rented the room would sometimes take their evening meal at home in the living.</p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="single-feature-box">
+              <img src="img/gari.png" alt="">
+              <h4>A Beautiful Feature</h4>
+              <p>The gentlemen who rented the room would sometimes take their evening meal at home in the living.</p>
+            </div>
+          </div>
+        </div>
+      <!-- </div> -->
+    </div>
+  </div>
+
+<!-- Feature end -->
+
+<!-- Footer area start -->
+
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+
+          <div class="footer-unicorn-title">
+            <h2>unicorn</h2>
+            <p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his</p>
+          </div>
+
+          <form action="#">
+            <div class="container">
+              <div class="row">
+            <div class="col-md-6">
+              <input type="text" name="" placeholder="EMAIL" id="">
+            </div>
+            <div class="col-md-6">
+              <input type="text" placeholder="SUBJECT">
+            </div>
+            <div class="col-md-12">
+              <textarea name="" id="" cols="30" rows="5" placeholder="Type Your Message"></textarea>
+              <input type="submit" value="send" id="send">
+            </div>
+
+
+            </div>
+            </div>
+          </form>
+
+        </div>
+      </div>
+    </div>
+  </footer>
+
+<!-- Footer area end -->
+
+
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" ></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" ></script>
+    <script defer src="js/fontawesome-all.min.js"></script>
+    <script src="js/custom.js"></script>
+
+    
+
+
+  </body>
 </html>
