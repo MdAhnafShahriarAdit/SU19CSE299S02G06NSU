@@ -72,6 +72,23 @@
     </div>
     <!--/ Banner-->
 
+
+    <!--About Us-->
+    <section id ="aboutUs" class="section-padding">
+      <div class="container">
+        <div class="row">
+          <div class="header-section text-center">
+            <h2>About Us</h2>
+            <p>From super–informative articles to real answers from three perspectives — a peer, a mom, and a health expert — you'll find everything you need to know about periods.
+This is not intended to be medical advice. Everybody is different so please make sure to consult your physician if you're having issues. Do not delay or refrain from seeking professional medical advice from your physician because of something you have read on this site.. <br> We always try to keep our website up to date.<br> We belive in user satisfaction</p>
+            <hr class="bottom-line">
+          </div>
+         
+        </div>
+      </div>
+    </section>
+    <!--/ feature-->
+
  <!-- EVERYTHING YOU NEED TO KNOW ABOUT PERIODS -->
 
 <div class="who_why">
