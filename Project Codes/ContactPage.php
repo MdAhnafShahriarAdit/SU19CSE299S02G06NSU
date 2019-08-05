@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title></title>
+<title>Nobonita</title>
 <link href="css/lightbox.css" rel="stylesheet" />
     <link href="StyleSheet.css" rel="stylesheet" type="text/css" />
 
@@ -42,7 +42,7 @@
 <div class="wrap">
 <div class="header">
 		<div class="logo">
-			<h1><a href="index.php"><img src="Images/logo.png" alt=""></a></h1>
+			<h1><a href="index.php"><img src="Image/2.jpg" alt=""></a></h1>
 		</div>
 	</div>
 </div>
@@ -57,7 +57,7 @@
 
 
   <div   class="col span_2_of_3"> <div class="contact-form" style="padding-left:100px;">
-				  	<img src="cpics/contact.png" align="center" />
+				  	<img src="Image/contact.png" height="100px" width="300px" align="center" />
   
     <table  cellspacing="0" cellpadding="0"  width="500px" height="300px">               
 
@@ -86,21 +86,27 @@
 <div class="footer">
 	<div class="f_nav">
 		<ul>
-			<li class="active"><a href="index.html">Home</a></li>			
-			<li><a href=""></a></li>
-            <li><a href="login.php">log In</a></li>
-            <li><a href="aboutus.php">About</a></li>
-            <li><a href="contact.php">Contact Us</a></li>
+			<li class="active"><a href="index.php">Home</a></li>			
+			
+            <li><a href=""></a>Home</li>
+            <li><a href=""></a>About Us</li>
+            <li><a href=""></a>Product</li>
+            <li><a href=""></a>Calender</li>
+            <li><a href=""></a>Payment</li>
+            <li><a href=""></a>Health Tips</li>
+            <li><a href=""></a>Contact</li>
+            <li><a href=""></a>Register</li>
+            <li><a href=""></a>Log Out</li>
 			
             </ul>
 	</div>
-		<div class="copy">
-			<p class="title"> </p>
-		</div>
+		
 	<div class="clear"></div>
 </div>
 </div>
 </div>
+
+<!--
 
 <?php
 if(isset($_POST["sbmt"])) 
@@ -125,5 +131,6 @@ if(isset($_POST["sbmt"]))
 	
 
 ?> 
+-->
 </body>
 </html>
