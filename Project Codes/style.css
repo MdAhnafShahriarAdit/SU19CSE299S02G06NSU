@@ -1107,4 +1107,165 @@ Responsive media queries
     }
 }
 
+
+/*** About US ***/
+
+
+
+
+
+header{
+  background-image: url('Image/AboutUsImage.jpg');
+  background-position: center;
+  background-size: cover;
+  padding: 30px 0px 100px 0px;
+  
+
+}
+
+.header-top{
+  width: 100%;
+  
+}
+.logo{
+  width: 10%;
+  float: left;
+}
+.logo a h3{
+  font-size: 18px;
+  color: #000;
+  text-transform: uppercase;
+  font-weight: 700;
+  
+}
+.logo a:hover{
+  text-decoration: none
+}
+.menu{
+  width: 90%;
+  float: left;
+}
+
+.menu ul{
+  margin: 0px;
+  padding: 0px;
+  text-align: right;
+
+
+}
+
+
+.menu ul li{
+  display: inline-block;
+  list-style: none;
+}
+
+.menu ul li a{
+  display: block;
+  padding: 10px 20px;
+  color: #000;
+  text-transform: uppercase;
+  transition: .3s;
+  font-weight: 700;
+  font-size: 16px;
+
+}
+.menu ul li a:hover{
+  text-decoration: none;
+  background: #ccc;
+  color: #fff;
+  border-radius: 5px;
+}
+
+.header-content{
+  width: 520px;
+  margin-top: 250px;
+  margin-left: 60%;
+  text-align: right
+
+
+}
+
+.header-content h2{
+  font-size: 72px;
+  font-weight: 900;
+  position: relative
+}
+.header-content h2:after{
+    position: absolute;
+    content: '';
+    height: 4px;
+    width: 160px;
+    background: #000;
+    bottom: -10px;
+    right: 3px;
+}
+
+.header-content p{
+  font-size: 18px;
+  line-height: 1.7;
+  margin-top: 30px
+}
+
+.header-content a{
+  width: 275px;
+  border: 1px solid #000;
+  display: block;
+  text-align: center;
+  margin-top: 50px;
+  margin-left: 44%;
+  color: #000;
+  padding: 8px 0px;
+  font-weight: 700;
+
+}
+.header-content a:hover{
+  text-decoration: none
+}
+
+
+/* Who and Why area start  */
+.who_why{
+  padding: 100px 0px 120px 0px;
+}
+
+.who_why_title{
+  text-align: center;
+}
+.who_why_title h2{
+  font-size: 27px;
+  font-weight: 700;
+  margin-top: 15px;
+}
+.who_why_content{
+  margin-top: 60px;
+  text-align: center;
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+/* Who and Why area end  */
+/* Feature area style start  */
+
+.feature-area{
+  background: #efefef;
+  padding: 80px 0px 100px 0px;
+}
+
+.single-feature-box h4{
+  font-size: 18px;
+  font-weight: 700;
+  margin: 20px 0px;
+}
+.single-feature-box p{
+  font-size: 16px;
+  opacity: .8;
+  font-weight: 400;
+  line-height: 1.8
+}
+/* Feature area style end  */
+
 /*  */
+
+
+/*** About US ***/

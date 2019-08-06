@@ -20,7 +20,7 @@
       
           <div class="header-top">
             <div class="logo">
-              <h1><a href="index.php"><img src="Images/2.jpg" alt=""></a></h1>
+              <h1><a href="index.php"><img src="Image/2.jpg" alt=""></a></h1>
             
             </div>
             <div class="menu">
@@ -53,18 +53,22 @@
 
 <!-- Header Area End -->
 
-<!-- Who and Why area start -->
+<!-- Deatils start -->
 
 <div class="who_why">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
         <div class="who_why_title">
-          <img src="img/who_why.jpg" alt="">
-          <h2>Who &amp; Why</h2>
+          <img src="Image/1stepsolution.png" alt="">
+          <h2>One-stop solution</h2>
         </div>
         <div class="who_why_content">
-          <p>The gentlemen who rented the room would sometimes take their evening meal at home in the living room that was used by everyone, and so the door to this room was often kept closed in the evening. But Gregor found it easy to give up having the door open, he had, after all, often failed to make use of it when it was open and, without the family having noticed it, lain in his room in its darkest corner. One time, though, the charwoman left the door.</p>
+          <p>
+
+
+ NOBONI নবণী is a health website for women that supports them during an entire reproductive period, encompasses accurate cycle predictions, personalized daily health insights and safe community of experts and peers.
+</p>
         </div>
       </div>
     </div>
@@ -80,23 +84,25 @@
         <!-- <div class="col-md-12"> -->
           <div class="col-md-4">
             <div class="single-feature-box">
-              <img src="img/clock.png" alt="">
-              <h4>An Wow Feature</h4>
-              <p>The gentlemen who rented the room would sometimes take their evening meal at home in the living.</p>
+              <img src="Image/Founded.png" alt="">
+              <h4>History</h4>
+              <p>NOBONI নবণী was founded July 2019</p>
             </div>
           </div>
           <div class="col-md-4">
             <div class="single-feature-box">
-              <img src="img/some.png" alt="">
-              <h4>An Amazing Feature</h4>
-              <p>The gentlemen who rented the room would sometimes take their evening meal at home in the living.</p>
+              <img src="Image/peopleCount.png" alt="">
+              <h4>
+             People work at NOBONI নবণী</h4>
+              <p>NOBONI নবণী was created by 2 undergradute student of North South University under the supervision of SHAIKH SHAWON AREFIN SHIMON</p>
             </div>
           </div>
           <div class="col-md-4">
             <div class="single-feature-box">
-              <img src="img/gari.png" alt="">
-              <h4>A Beautiful Feature</h4>
-              <p>The gentlemen who rented the room would sometimes take their evening meal at home in the living.</p>
+              <img src="Image/aTrustedSource.png" alt="">
+              <h4>
+A trusted source of information</h4>
+              <p>We use our expertise to provide a trusted source of health information and secure communication for  women.</p>
             </div>
           </div>
         </div>
@@ -106,43 +112,6 @@
 
 <!-- Feature end -->
 
-<!-- Footer area start -->
-
-  <footer>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-6">
-
-          <div class="footer-unicorn-title">
-            <h2>unicorn</h2>
-            <p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his</p>
-          </div>
-
-          <form action="#">
-            <div class="container">
-              <div class="row">
-            <div class="col-md-6">
-              <input type="text" name="" placeholder="EMAIL" id="">
-            </div>
-            <div class="col-md-6">
-              <input type="text" placeholder="SUBJECT">
-            </div>
-            <div class="col-md-12">
-              <textarea name="" id="" cols="30" rows="5" placeholder="Type Your Message"></textarea>
-              <input type="submit" value="send" id="send">
-            </div>
-
-
-            </div>
-            </div>
-          </form>
-
-        </div>
-      </div>
-    </div>
-  </footer>
-
-<!-- Footer area end -->
 
 
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
