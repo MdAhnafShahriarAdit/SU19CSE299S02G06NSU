@@ -68,7 +68,7 @@
 
 
  NOBONI নবণী is a health website for women that supports them during an entire reproductive period, encompasses accurate cycle predictions, personalized daily health insights and safe community of experts and peers.
-/p>
+</p>
         </div>
       </div>
     </div>
@@ -85,22 +85,23 @@
           <div class="col-md-4">
             <div class="single-feature-box">
               <img src="img/clock.png" alt="">
-              <h4>An Wow Feature</h4>
-              <p>The gentlemen who rented the room would sometimes take their evening meal at home in the living.</p>
+              <h4>History</h4>
+              <p>NOBONI নবণী was founded July 2019</p>
             </div>
           </div>
           <div class="col-md-4">
             <div class="single-feature-box">
               <img src="img/some.png" alt="">
-              <h4>An Amazing Feature</h4>
-              <p>The gentlemen who rented the room would sometimes take their evening meal at home in the living.</p>
+              <h4>People work at NOBONI নবণী</h4>
+              <p>NOBONI নবণী was created by 2 undergradute student of North South University under the supervision of SHAIKH SHAWON AREFIN SHIMON</p>
             </div>
           </div>
           <div class="col-md-4">
             <div class="single-feature-box">
               <img src="img/gari.png" alt="">
-              <h4>A Beautiful Feature</h4>
-              <p>The gentlemen who rented the room would sometimes take their evening meal at home in the living.</p>
+              <h4>
+A trusted source of information</h4>
+              <p>We use our expertise to provide a trusted source of health information and secure communication for  women.</p>
             </div>
           </div>
         </div>
@@ -110,43 +111,6 @@
 
 <!-- Feature end -->
 
-<!-- Footer area start -->
-
-  <footer>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-6">
-
-          <div class="footer-unicorn-title">
-            <h2>unicorn</h2>
-            <p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his</p>
-          </div>
-
-          <form action="#">
-            <div class="container">
-              <div class="row">
-            <div class="col-md-6">
-              <input type="text" name="" placeholder="EMAIL" id="">
-            </div>
-            <div class="col-md-6">
-              <input type="text" placeholder="SUBJECT">
-            </div>
-            <div class="col-md-12">
-              <textarea name="" id="" cols="30" rows="5" placeholder="Type Your Message"></textarea>
-              <input type="submit" value="send" id="send">
-            </div>
-
-
-            </div>
-            </div>
-          </form>
-
-        </div>
-      </div>
-    </div>
-  </footer>
-
-<!-- Footer area end -->
 
 
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
