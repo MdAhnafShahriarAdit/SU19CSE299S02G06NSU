@@ -84,21 +84,22 @@
         <!-- <div class="col-md-12"> -->
           <div class="col-md-4">
             <div class="single-feature-box">
-              <img src="img/clock.png" alt="">
+              <img src="Image/Founded.png" alt="">
               <h4>History</h4>
               <p>NOBONI নবণী was founded July 2019</p>
             </div>
           </div>
           <div class="col-md-4">
             <div class="single-feature-box">
-              <img src="img/some.png" alt="">
-              <h4>People work at NOBONI নবণী</h4>
+              <img src="Image/peopleCount.png" alt="">
+              <h4>
+             People work at NOBONI নবণী</h4>
               <p>NOBONI নবণী was created by 2 undergradute student of North South University under the supervision of SHAIKH SHAWON AREFIN SHIMON</p>
             </div>
           </div>
           <div class="col-md-4">
             <div class="single-feature-box">
-              <img src="img/gari.png" alt="">
+              <img src="Image/aTrustedSource.png" alt="">
               <h4>
 A trusted source of information</h4>
               <p>We use our expertise to provide a trusted source of health information and secure communication for  women.</p>
