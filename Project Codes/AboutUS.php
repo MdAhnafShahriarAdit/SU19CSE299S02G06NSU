@@ -20,7 +20,7 @@
       
           <div class="header-top">
             <div class="logo">
-              <h1><a href="index.php"><img src="Images/2.jpg" alt=""></a></h1>
+              <h1><a href="index.php"><img src="Image/2.jpg" alt=""></a></h1>
             
             </div>
             <div class="menu">
