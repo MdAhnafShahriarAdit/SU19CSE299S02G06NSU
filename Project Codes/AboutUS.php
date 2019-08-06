@@ -53,18 +53,22 @@
 
 <!-- Header Area End -->
 
-<!-- Who and Why area start -->
+<!-- Deatils start -->
 
 <div class="who_why">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
         <div class="who_why_title">
-          <img src="img/who_why.jpg" alt="">
-          <h2>Who &amp; Why</h2>
+          <img src="Image/1stepsolution.png" alt="">
+          <h2>One-stop solution</h2>
         </div>
         <div class="who_why_content">
-          <p>The gentlemen who rented the room would sometimes take their evening meal at home in the living room that was used by everyone, and so the door to this room was often kept closed in the evening. But Gregor found it easy to give up having the door open, he had, after all, often failed to make use of it when it was open and, without the family having noticed it, lain in his room in its darkest corner. One time, though, the charwoman left the door.</p>
+          <p>
+
+
+ NOBONI নবণী is a health website for women that supports them during an entire reproductive period, encompasses accurate cycle predictions, personalized daily health insights and safe community of experts and peers.
+/p>
         </div>
       </div>
     </div>
