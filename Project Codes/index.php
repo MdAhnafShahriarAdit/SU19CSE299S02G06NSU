@@ -69,9 +69,9 @@
                 <p class="big-text">“It is quite a big deal. It's so extraordinary that we female humans should be linked to the moon and the tides. It'd sound like science fiction if you made it up – mysterious planetary forces making us bleed.”
  </p>
                 <p class="small-text">― Sofka Zinovieff, Putney</p>
-                <a href="#footer" class="btn get-quote">GET A QUOTE</a>
+                
               </div>
-              <a href="#feature" class="mouse-hover"><div class="mouse"></div></a>
+              
             </div>
           </div>
         </div>
@@ -159,14 +159,14 @@ A trusted source of information</h4>
 
 
    <ul >
-       <li > <a  href="index.php">Home </a></li>
-       <li > <a  href="AboutUS.php">About Us</a></li>
-       <li > <a  href="contact.php">Contact Us</a></li>
-       <li > <a  href="">Products</li>
-       <li > <a  href="">Health Tips </a></li>
-       <li > <a  href="">Calender</a></li>
-       <li > <a  href="registration.php">Join Us</a></li>
-        <li ><a  href="login.php?logout='1'" style="color : red;">Logout</a></li>
+       <li class="active"  > <a  href="index.php">Home </a></li>
+       <li class="active"  > <a  href="AboutUS.php">About Us</a></li>
+       <li class="active"  > <a  href="contact.php">Contact Us</a></li>
+       <li class="active"  > <a  href="">Products</li>
+       <li class="active" > <a  href="">Health Tips </a></li>
+       <li class="active"  > <a  href="">Calender</a></li>
+       <li class="active" > <a  href="registration.php">Join Us</a></li>
+        <li class="active"  ><a  href="login.php?logout='1'" style="color : red;">Logout</a></li>
       </ul>
  
 
