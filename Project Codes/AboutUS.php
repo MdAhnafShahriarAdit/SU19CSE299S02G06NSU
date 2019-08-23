@@ -1,45 +1,45 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title  > NOBONI </title>
 
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" >
     <link rel="stylesheet" href="style.css">
+  <nav class="navbar navbar-expand-lg navbar navbar-dark bg-dark">
+  <a class="navbar-brand" href="index.php"><div class="header">
+    <div class="logo">
+      <h1><a href="index.php"><img src="Image/2.jpg" height="150" width="150" ; alt=""></a></h1>
+    </div>
+  </div></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 
-    <title>NOBONI</title>
-  </head>
-  <body>
-   
-<!-- Header Area Start -->
-<header> 
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav ml-auto">
+      
+      <a class="nav-link" href="index.php">Home &ensp;<span class="sr-only"></span></a></li>
+        <a class="nav-link" href="AboutUS.php">About Us&ensp;<span class="sr-only">(current)</span></a></li>
+        <a class="nav-link" href="contact.php">Contact Us&ensp;<span class="sr-only">(current)</span></a></li>
+        <a class="nav-link" href="">Products&ensp;<span class="sr-only">(current)</span></a></li>
+        <a class="nav-link" href="">Health Tips&ensp;<span class="sr-only">(current)</span></a></li>
+        <a class="nav-link" href="">Calender&ensp;<span class="sr-only">(current)</span></a></li>
+        <a class="nav-link" href="registration.php">Join Us&ensp;<span class="sr-only">(current)</span></a></li>
+        <a class="nav-link" href="login.php?logout='1'" style="color : red;">Logout&ensp;&ensp;&emsp;&emsp;<span class="sr-only">(current)</span></a></li>
+      </ul>
+</div>
+</nav>
+</head>
+</html>
+
+<!-- Header Area End -->
+
 <div class="container">
-  <div class="row">
-      
-          <div class="header-top">
-            <div class="logo">
-              <h1><a href="index.php"><img src="Image/2.jpg" alt=""></a></h1>
-            
-            </div>
-            <div class="menu">
-              <ul>
-     
-             <li class="active"><a href="index.php">Home</a></li>
-            <li class="active"><a href="AboutUS.php">About Us</a></li>
-            <li class="active"><a href="">Product</a></li>
-            <li class="active"><a href="">Calender</a></li>
-            <li class="active"><a href="">Payment</a></li>
-            <li class="active"><a href="">Health Tips</a></li>
-            <li class="active"><a href="contact.php">Contact</a></li>
-            <li class="active"><a href="registration.php">Register</a></li>
-           <li class="active"><a href="login.php?logout='1'" style="color: red;">logout</a> <li></li>
-          
-      
-            </ul>
-            </div>
-          </div>
+
 
           <div class="header-content">
             <h2> NOBONI নবণী </h2>
@@ -49,9 +49,7 @@
      
   </div>
 </div>
- </header>
-
-<!-- Header Area End -->
+ 
 
 <!-- Deatils start -->
 
