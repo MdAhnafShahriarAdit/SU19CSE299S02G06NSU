@@ -1,4 +1,4 @@
-header{
+header1{
 	background-image: url('img/img4.jpg');
     background-position: center;
     background-size: cover;
@@ -72,8 +72,8 @@ header{
 
 }
 .header-content h2{
-	font-size: 72px;
-	font-weight: 900;
+	font-size: 71px;
+	font-weight: 700;
 	position: relative;
 }
 .header-content h2:after{
@@ -216,12 +216,7 @@ footer{
 
 
 }
-footer input,textarea{
-	border: none;
-	color: #ccc;
-	background: black;
-	width: 100%;
-	border-bottom:  1px solid #ddd; 
+
 }
 footer input:focus{
 	outline: none;
@@ -1104,7 +1099,7 @@ Responsive media queries
 
 
 
-header{
+header1{
   background-image: url('Image/AboutUsImage.jpg');
   background-position: center;
   background-size: cover;
@@ -1113,7 +1108,7 @@ header{
 
 }
 
-.header-top{
+.header1-top{
   width: 100%;
   
 }
@@ -1169,7 +1164,7 @@ header{
 
 .header-content{
   width: 520px;
-  margin-top: 250px;
+  margin-top: 70px;
   margin-left: 60%;
   text-align: right
 
