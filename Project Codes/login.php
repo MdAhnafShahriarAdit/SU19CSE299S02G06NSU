@@ -1,65 +1,58 @@
-<?php include('server.php') ?>
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Ms</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-</head>
-<body style="background-color: ">
-
-    <div class="header">
-    <h2> NOBONI </h2>
-  </div>
+  <head>
+    <title>Login</title>
 
     
+    <?php include 'header.php'; ?>
 
-<div class="container">
-    
-    <div class="header">
-        <h2>Log In</h2>
-    </div>
+  </head>
+  
+  <div style="height:00px;">
+     <form method="post" enctype="multipart/form-data" style="width: 1519px; height: 600px;">
+      <div class="content">
+        <br>
+      <table width="100%" style="margin: 0 auto; border:3px solid;text-align:center">
 
-    <form action="registration.php" method="post">
-<<<<<<< Updated upstream
-    	
-        <div>
-        	<label for="username">User Name : </label>
-<<<<<<< Updated upstream
-        	<input type="text" name="username"  required>
-=======
-        	<input type="text" name="username" required>
-=======
-        <center><img src="img/l2.png" alt="#" class="l1"></center>
-        
-        <div class="input-group">
-            <label for="username">User Name : </label>
-            <input type="text" name="username" required>
->>>>>>> Stashed changes
->>>>>>> Stashed changes
-        </div>
+      <tr><td class="lefttd"><h3>E-Mail:</h3></td><td><input type="email" name="t1" required="required" title="Please enter your email"/></td></tr>
+      <tr><td class="lefttd"><h3>Password:</h3></td><td><input type="password"name="t2"  required="required" pattern="[a-zA-Z0-9]{2,10}" title="please enter only character or numbers between 2 to 10 for password"  /></td></tr>
 
-       
+      <tr><td>&nbsp;</td><td><input type="submit" value="Sign In" name="sbmt" style="border:0px; background: red; width:125px; height:40px; box-shadow:5px 5px 10px black; color:white; font-weight:bold; font-size:20px;"></td></tr></table><br><br><br><br><br><br>
 
-         <div class="input-group">
-            <label for="password">Password : </label>
-            <input type="password" name="password_1" required>
-        </div>
-
-         
-
-         
-
-        <div class="input-group">
-    <button type="submit" class="btn" name="login_user">Log In</button>
-        </div>
-
-        <p>Already a user <a href="registration.php"><b>Register Here</b></a></p>
-
-    </form>
-
+        <font size="5" align="center">&nbsp;&nbsp;Not a donor?<a href="registration.php" style="color:red">&nbsp;Click here</a>&nbsp;to register.</font>
+        <br><br>
 </div>
-
-
+</div>
+</nav>
 </body>
+</body>
+<?php include 'footer.php' ?>
+
+<?php include 'DBconnection.php'; ?>
+
+<?php
+$_SESSION['donorstatus']="";
+if(isset($_POST["sbmt"])) 
+{
+    
+    $cn=makeconnection();           
+            $s="select *from donorregistration where email='" . $_POST["t1"] . "' and pwd='" .$_POST["t2"] . "'";
+            
+    $q=mysqli_query($cn,$s);
+    $r=mysqli_num_rows($q);
+    mysqli_close($cn);
+    if($r>0)
+    {
+        $_SESSION["email"]=$_POST["t1"];
+       $_SESSION['donorstatus']="yes";
+//header("location:donor/index.php");
+echo "<script>location.replace('index.php');</script>";
+    }
+    else
+    {
+        echo "<script>alert('Invalid User Name Or Password');</script>";
+    }
+        
+        }   
+?> 
 </html>
