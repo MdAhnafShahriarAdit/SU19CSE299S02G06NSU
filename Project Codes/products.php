@@ -1,0 +1,229 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title  > NOBONI </title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" >
+    <link rel="stylesheet" href="style.css">
+  <nav class="navbar navbar-expand-lg navbar navbar-dark bg-dark">
+  <a class="navbar-brand" href="index.php"><div class="header">
+    <div class="logo">
+      <h1><a href="index.php"><img src="Image/2.jpg" height="100" width="100" ; alt=""></a></h1>
+    </div>
+  </div></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav ml-auto">
+      
+      <a class="nav-link" href="index.php">Home &ensp;<span class="sr-only"></span></a></li>
+        <a class="nav-link" href="AboutUS.php">About Us&ensp;<span class="sr-only">(current)</span></a></li>
+        <a class="nav-link" href="contact.php">Contact Us&ensp;<span class="sr-only">(current)</span></a></li>
+        <a class="nav-link" href="">Products&ensp;<span class="sr-only">(current)</span></a></li>
+        <a class="nav-link" href="">Health Tips&ensp;<span class="sr-only">(current)</span></a></li>
+        <a class="nav-link" href="">Calender&ensp;<span class="sr-only">(current)</span></a></li>
+        <a class="nav-link" href="registration.php">Join Us&ensp;<span class="sr-only">(current)</span></a></li>
+        <a class="nav-link" href="login.php?logout='1'" style="color : red;">Logout&ensp;&ensp;&emsp;&emsp;<span class="sr-only">(current)</span></a></li>
+      </ul>
+</div>
+</nav>
+</head>
+</html>
+
+    <!--Pads-->
+    <section id="newBooks" class="section-padding">
+      <div class="container">
+        <div class="row">
+          <div class="header-section text-center">
+            <h2>Sanitary napkin</h2>
+            <p>We plan to bring lots of new products in future<br>Sign Up and stay with us</p>
+            <hr class="bottom-line">
+          </div>
+       <div class="col-md-4 col-sm-6 padleft-right">
+            <figure class="imghvr-fold-up">
+              <img src="Image/san1.png"  class="img-responsive">
+              <figcaption>
+                  <h3>Joya Sanitary Napkin</h3>
+                  <p>Joya Sanitary Napkin was launched in 2013. It is one of the most popular sanitary napkin brands in Bangladesh. It is a high-quality product which offers great value for money and is also the first scented sanitary napkin in the country. Joya defies taboos associated with menstruation and inspires women to move forward in life. “পিছিয়ে থাকবো না” is the slogan of this brand.
+
+Joya sanitary napkin is manufactured according to the highest standard at SMC’s own state-of-the-art Health and Hygiene Products factory. The key raw materials used in manufacturing the products are of the highest quality which was imported from USA, Canada, Germany and Japan. To offer a broader option for the users, Joya Sanitary Napkin is available in five variants – Belt, Wings Regular Flow, Ultra Comfort Wings, Extra Heavy Flow Wings and All Night Wings.  </p>
+              </figcaption>
+              <a href="#"></a>
+            </figure>
+          </div> 
+
+
+    <!--Pads-->
+    <section id="newBooks" class="section-padding">
+      <div class="container">
+        <div class="row">
+          <div class="header-section text-center">
+            <h2>Sanitary napkin</h2>
+            <p>We plan to bring lots of new products in future<br>Sign Up and stay with us</p>
+            <hr class="bottom-line">
+          </div>
+       <div class="col-md-4 col-sm-6 padleft-right">
+            <figure class="imghvr-fold-up">
+              <img src="Image/san1.png"  class="img-responsive">
+              <figcaption>
+                  <h3>Joya Sanitary Napkin</h3>
+                  <p>Joya Sanitary Napkin was launched in 2013. It is one of the most popular sanitary napkin brands in Bangladesh. It is a high-quality product which offers great value for money and is also the first scented sanitary napkin in the country. Joya defies taboos associated with menstruation and inspires women to move forward in life. “পিছিয়ে থাকবো না” is the slogan of this brand.
+
+Joya sanitary napkin is manufactured according to the highest standard at SMC’s own state-of-the-art Health and Hygiene Products factory. The key raw materials used in manufacturing the products are of the highest quality which was imported from USA, Canada, Germany and Japan. To offer a broader option for the users, Joya Sanitary Napkin is available in five variants – Belt, Wings Regular Flow, Ultra Comfort Wings, Extra Heavy Flow Wings and All Night Wings.  </p>
+              </figcaption>
+              <a href="#"></a>
+            </figure>
+          </div> 
+
+
+    <!--Pads-->
+    <section id="newBooks" class="section-padding">
+      <div class="container">
+        <div class="row">
+          <div class="header-section text-center">
+            <h2>Sanitary napkin</h2>
+            <p>We plan to bring lots of new products in future<br>Sign Up and stay with us</p>
+            <hr class="bottom-line">
+          </div>
+       <div class="col-md-4 col-sm-6 padleft-right">
+            <figure class="imghvr-fold-up">
+              <img src="Image/san1.png"  class="img-responsive">
+              <figcaption>
+                  <h3>Joya Sanitary Napkin</h3>
+                  <p>Joya Sanitary Napkin was launched in 2013. It is one of the most popular sanitary napkin brands in Bangladesh. It is a high-quality product which offers great value for money and is also the first scented sanitary napkin in the country. Joya defies taboos associated with menstruation and inspires women to move forward in life. “পিছিয়ে থাকবো না” is the slogan of this brand.
+
+Joya sanitary napkin is manufactured according to the highest standard at SMC’s own state-of-the-art Health and Hygiene Products factory. The key raw materials used in manufacturing the products are of the highest quality which was imported from USA, Canada, Germany and Japan. To offer a broader option for the users, Joya Sanitary Napkin is available in five variants – Belt, Wings Regular Flow, Ultra Comfort Wings, Extra Heavy Flow Wings and All Night Wings.  </p>
+              </figcaption>
+              <a href="#"></a>
+            </figure>
+          </div>                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" ></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" ></script>
+    <script defer src="js/fontawesome-all.min.js"></script>
+    <script src="js/custom.js"></script>
+
+    
+
+
+<div class="clear"></div>
+<div class="ftr-bg">
+<div class="wrap">
+<div class="footer">
+<div class="f_nav">
+
+
+   <ul >
+       <li class="active"  > <a  href="index.php">Home </a></li>
+       <li class="active"  > <a  href="AboutUS.php">About Us</a></li>
+       <li class="active"  > <a  href="contact.php">Contact Us</a></li>
+       <li class="active"  > <a  href="">Products</li>
+       <li class="active" > <a  href="">Health Tips </a></li>
+       <li class="active"  > <a  href="">Calender</a></li>
+       <li class="active" > <a  href="registration.php">Join Us</a></li>
+        <li class="active"  ><a  href="login.php?logout='1'" style="color : red;">Logout</a></li>
+      </ul>
+ 
+
+
+
+
+</div>
+<div class="copy">
+      <p class="title"><br><br>©CSE299 Group 6</p>
+    </div>
+  <div class="clear"></div>
+</div>
+</div>
+</div>
+
+
+  </body>
+</html>
+
+<style>
+  
+.ftr-bg{
+  background: #E9DCC9;
+  border-top: 1px solid rgba(214, 195, 167, 0.34);
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+.footer{
+  padding:3% 0;
+}
+.f_nav{
+  float:left;
+}
+.f_nav li{
+  display: inline-block;
+}
+.f_nav li.active a{
+  color:#ffffff;
+  background: rgb(219,60,76);
+  background: -moz-linear-gradient(top,  rgba(219,60,76,1) 0%, rgba(197,54,68,1) 56%, rgba(162,44,56,1) 99%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(219,60,76,1)), color-stop(56%,rgba(197,54,68,1)), color-stop(99%,rgba(162,44,56,1)));
+  background: -webkit-linear-gradient(top,  rgba(219,60,76,1) 0%,rgba(197,54,68,1) 56%,rgba(162,44,56,1) 99%);
+  background: -o-linear-gradient(top,  rgba(219,60,76,1) 0%,rgba(197,54,68,1) 56%,rgba(162,44,56,1) 99%);
+  background: -ms-linear-gradient(top,  rgba(219,60,76,1) 0%,rgba(197,54,68,1) 56%,rgba(162,44,56,1) 99%);
+  background: linear-gradient(to bottom,  rgba(219,60,76,1) 0%,rgba(197,54,68,1) 56%,rgba(162,44,56,1) 99%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#db3c4c', endColorstr='#a22c38',GradientType=0 );
+}
+.f_nav li a{
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -o-border-radius: 5px;
+  display:block;
+  padding: 8px 18px;
+  color: #805752;
+  font-size: 0.8125em;
+}
+.f_nav li a:hover{
+  color:#ffffff;
+  background: rgb(219,60,76);
+  background: -moz-linear-gradient(top,  rgba(219,60,76,1) 0%, rgba(197,54,68,1) 56%, rgba(162,44,56,1) 99%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(219,60,76,1)), color-stop(56%,rgba(197,54,68,1)), color-stop(99%,rgba(162,44,56,1)));
+  background: -webkit-linear-gradient(top,  rgba(219,60,76,1) 0%,rgba(197,54,68,1) 56%,rgba(162,44,56,1) 99%);
+  background: -o-linear-gradient(top,  rgba(219,60,76,1) 0%,rgba(197,54,68,1) 56%,rgba(162,44,56,1) 99%);
+  background: -ms-linear-gradient(top,  rgba(219,60,76,1) 0%,rgba(197,54,68,1) 56%,rgba(162,44,56,1) 99%);
+  background: linear-gradient(to bottom,  rgba(219,60,76,1) 0%,rgba(197,54,68,1) 56%,rgba(162,44,56,1) 99%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#db3c4c', endColorstr='#a22c38',GradientType=0 );
+  -webkit-transition: 0.9s;
+  -moz-transition: 0.9s;
+  -o-transition: 0.9s;
+}
+
+
+
+
+
+
+
+</style>
+s
