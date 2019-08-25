@@ -8,7 +8,7 @@
   <nav class="navbar navbar-expand-lg navbar navbar-dark bg-dark">
   <a class="navbar-brand" href="index.php"><div class="header">
     <div class="logo">
-      <h1><a href="index.php"><img src="Images/2.jpg" height="150" width="150" ; alt=""></a></h1>
+      <h1><a href="index.php"><img src="Image/2.jpg" height="150" width="150" ; alt=""></a></h1>
     </div>
   </div></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
