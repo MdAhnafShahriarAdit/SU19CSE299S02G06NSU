@@ -36,6 +36,73 @@
 </head>
 </html>
 
+    <!--Pads-->
+    <section id="newBooks" class="section-padding">
+      <div class="container">
+        <div class="row">
+          <div class="header-section text-center">
+            <h2>Sanitary napkin</h2>
+            <p>We plan to bring lots of new products in future<br>Sign Up and stay with us</p>
+            <hr class="bottom-line">
+          </div>
+       <div class="col-md-4 col-sm-6 padleft-right">
+            <figure class="imghvr-fold-up">
+              <img src="Image/san1.png"  class="img-responsive">
+              <figcaption>
+                  <h3>Joya Sanitary Napkin</h3>
+                  <p>Joya Sanitary Napkin was launched in 2013. It is one of the most popular sanitary napkin brands in Bangladesh. It is a high-quality product which offers great value for money and is also the first scented sanitary napkin in the country. Joya defies taboos associated with menstruation and inspires women to move forward in life. “পিছিয়ে থাকবো না” is the slogan of this brand.
+
+Joya sanitary napkin is manufactured according to the highest standard at SMC’s own state-of-the-art Health and Hygiene Products factory. The key raw materials used in manufacturing the products are of the highest quality which was imported from USA, Canada, Germany and Japan. To offer a broader option for the users, Joya Sanitary Napkin is available in five variants – Belt, Wings Regular Flow, Ultra Comfort Wings, Extra Heavy Flow Wings and All Night Wings.  </p>
+              </figcaption>
+              <a href="#"></a>
+            </figure>
+          </div> 
+
+
+    <!--Pads-->
+    <section id="newBooks" class="section-padding">
+      <div class="container">
+        <div class="row">
+          <div class="header-section text-center">
+            <h2>Sanitary napkin</h2>
+            <p>We plan to bring lots of new products in future<br>Sign Up and stay with us</p>
+            <hr class="bottom-line">
+          </div>
+       <div class="col-md-4 col-sm-6 padleft-right">
+            <figure class="imghvr-fold-up">
+              <img src="Image/san1.png"  class="img-responsive">
+              <figcaption>
+                  <h3>Joya Sanitary Napkin</h3>
+                  <p>Joya Sanitary Napkin was launched in 2013. It is one of the most popular sanitary napkin brands in Bangladesh. It is a high-quality product which offers great value for money and is also the first scented sanitary napkin in the country. Joya defies taboos associated with menstruation and inspires women to move forward in life. “পিছিয়ে থাকবো না” is the slogan of this brand.
+
+Joya sanitary napkin is manufactured according to the highest standard at SMC’s own state-of-the-art Health and Hygiene Products factory. The key raw materials used in manufacturing the products are of the highest quality which was imported from USA, Canada, Germany and Japan. To offer a broader option for the users, Joya Sanitary Napkin is available in five variants – Belt, Wings Regular Flow, Ultra Comfort Wings, Extra Heavy Flow Wings and All Night Wings.  </p>
+              </figcaption>
+              <a href="#"></a>
+            </figure>
+          </div> 
+
+
+    <!--Pads-->
+    <section id="newBooks" class="section-padding">
+      <div class="container">
+        <div class="row">
+          <div class="header-section text-center">
+            <h2>Sanitary napkin</h2>
+            <p>We plan to bring lots of new products in future<br>Sign Up and stay with us</p>
+            <hr class="bottom-line">
+          </div>
+       <div class="col-md-4 col-sm-6 padleft-right">
+            <figure class="imghvr-fold-up">
+              <img src="Image/san1.png"  class="img-responsive">
+              <figcaption>
+                  <h3>Joya Sanitary Napkin</h3>
+                  <p>Joya Sanitary Napkin was launched in 2013. It is one of the most popular sanitary napkin brands in Bangladesh. It is a high-quality product which offers great value for money and is also the first scented sanitary napkin in the country. Joya defies taboos associated with menstruation and inspires women to move forward in life. “পিছিয়ে থাকবো না” is the slogan of this brand.
+
+Joya sanitary napkin is manufactured according to the highest standard at SMC’s own state-of-the-art Health and Hygiene Products factory. The key raw materials used in manufacturing the products are of the highest quality which was imported from USA, Canada, Germany and Japan. To offer a broader option for the users, Joya Sanitary Napkin is available in five variants – Belt, Wings Regular Flow, Ultra Comfort Wings, Extra Heavy Flow Wings and All Night Wings.  </p>
+              </figcaption>
+              <a href="#"></a>
+            </figure>
+          </div>                     
 
 
 
@@ -53,8 +120,7 @@
 
 
 
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="js/jquery-3.3.1.min.js"></script>
+ <script src="js/jquery-3.3.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" ></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" ></script>
     <script defer src="js/fontawesome-all.min.js"></script>
@@ -63,11 +129,11 @@
     
 
 
-      <div class="clear"></div>
+<div class="clear"></div>
 <div class="ftr-bg">
 <div class="wrap">
 <div class="footer">
-  <div class="f_nav">
+<div class="f_nav">
 
 
    <ul >
@@ -99,10 +165,11 @@
 </html>
 
 <style>
-  .ftr-bg{
-  background: #f73c80;
+  
+.ftr-bg{
+  background: #E9DCC9;
   border-top: 1px solid rgba(214, 195, 167, 0.34);
-   position: fixed ;
+  position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
@@ -152,6 +219,11 @@
   -o-transition: 0.9s;
 }
 
+
+
+
+
+
+
 </style>
-
-
+s
