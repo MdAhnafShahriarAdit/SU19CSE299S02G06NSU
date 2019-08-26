@@ -4,6 +4,7 @@
     <title  > NOBONI </title>
 
     <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" >
@@ -36,74 +37,196 @@
 </head>
 </html>
 
-    <!--Pads-->
-    <section id="newBooks" class="section-padding">
-      <div class="container">
+   
+
+
+    
+
+<section id="hospital"  style="background-image: url(img/background.png);
+    background-position: center;
+    background-size: cover; 
+    background-repeat: no-repeat;">
+    <div class="container" style="margin-bottom: 40px;">
         <div class="row">
-          <div class="header-section text-center">
-            <h2>Sanitary napkin</h2>
-            <p>We plan to bring lots of new products in future<br>Sign Up and stay with us</p>
-            <hr class="bottom-line">
-          </div>
-       <div class="col-md-4 col-sm-6 padleft-right">
-            <figure class="imghvr-fold-up">
-              <img src="Image/san1.png"  class="img-responsive">
-              <figcaption>
-                  <h3>Joya Sanitary Napkin</h3>
-                  <p>Joya Sanitary Napkin was launched in 2013. It is one of the most popular sanitary napkin brands in Bangladesh. It is a high-quality product which offers great value for money and is also the first scented sanitary napkin in the country. Joya defies taboos associated with menstruation and inspires women to move forward in life. “পিছিয়ে থাকবো না” is the slogan of this brand.
+            <div class="col-md-10 offset-md-1">
+               <div class="hospial_content text-center" style="margin-top: 100px;">
+                <h1 style="font-size: 30pt;
+font-weight: bold;">Senitary Pads </h1>
+         
+                </div>
+            </div>
+            
+        </div>
+        <div class="row" style="margin: 40px 0px;">
+            <div class="col-md-6 col-lg-3">
+            
+<!--                card-apollo-->
+                 <div class="card">
+                     <div class="card-header card_custom_header1 text-center">
+                     <span>Joya Sanitary Napkin</span><span class="card_img"> <img src="" class="imh-fluid" alt=""> </span>
+  </div>
+                    <img class="card-img-top" src="Image/san1.png">
+                    <div class="card-block">
+                        <figure class="profile">
+                            <img src="" class="profile-avatar" alt="">
+                        </figure>
+                        <h4 class="card-title text-center mt-3 "><a href=""></a></h4>
+                       
+                        <div class="card-text text-center">
+                            Joya Sanitary Napkin is available in five variants – Belt, Wings Regular Flow, Ultra Comfort Wings, Extra Heavy Flow Wings and All Night Wings. 
+                        </div>
+                    </div>
+                    <div class="card-footer text-center">
+                       <span class="float-left leftone"></span>
+                       <span>Price : 160 Taka</span>
+                       <span class="float-right rightone"></span>
+                    </div>
+                </div>
+            </div>
+<!--            card-apollo-->
 
-Joya sanitary napkin is manufactured according to the highest standard at SMC’s own state-of-the-art Health and Hygiene Products factory. The key raw materials used in manufacturing the products are of the highest quality which was imported from USA, Canada, Germany and Japan. To offer a broader option for the users, Joya Sanitary Napkin is available in five variants – Belt, Wings Regular Flow, Ultra Comfort Wings, Extra Heavy Flow Wings and All Night Wings.  </p>
-              </figcaption>
-              <a href="#"></a>
-            </figure>
-          </div> 
+<!--                card-apollo-->
+<div class="col-md-6 col-lg-3">
+                 <div class="card">
+                     <div class="card-header card_custom_header1 text-center">
+                     <span>Joya Sanitary Napkin</span><span class="card_img"> <img src="" class="imh-fluid" alt=""> </span>
+  </div>
+                    <img class="card-img-top" src="Image/san2.jpg" height="245" width="257">
+                    <div class="card-block">
+                        <figure class="profile">
+                            <img src="" class="profile-avatar" alt="">
+                        </figure>
+                        <h4 class="card-title text-center mt-3 "><a href=""></a></h4>
+                       
+                        <div class="card-text text-center">
+                            Joya Sanitary Napkin is available in five variants – Belt, Wings Regular Flow, Ultra Comfort Wings, Extra Heavy Flow Wings and All Night Wings. 
+                        </div>
+                    </div>
+                    <div class="card-footer text-center">
+                       <span class="float-left leftone"></span>
+                       <span>Price : 160 Taka</span>
+                       <span class="float-right rightone"></span>
+                    </div>
+                </div>
+            </div>
+<!--            card-apollo-->
 
+<!--                card-apollo-->
+<div class="col-md-6 col-lg-3">
+                 <div class="card">
+                     <div class="card-header card_custom_header1 text-center">
+                     <span>Joya Sanitary Napkin</span><span class="card_img"> <img src="" class="imh-fluid" alt=""> </span>
+  </div>
+                    <img class="card-img-top" src="Image/san3.jpeg">
+                    <div class="card-block">
+                        <figure class="profile">
+                            <img src="" class="profile-avatar" alt="">
+                        </figure>
+                        <h4 class="card-title text-center mt-3 "><a href=""></a></h4>
+                       
+                        <div class="card-text text-center">
+                            Joya Sanitary Napkin is available in five variants – Belt, Wings Regular Flow, Ultra Comfort Wings, Extra Heavy Flow Wings and All Night Wings. 
+                        </div>
+                    </div>
+                    <div class="card-footer text-center">
+                       <span class="float-left leftone"></span>
+                       <span>Price : 160 Taka</span>
+                       <span class="float-right rightone"></span>
+                    </div>
+                </div>
+            </div>
+<!--            card-apollo-->
 
-    <!--Pads-->
-    <section id="newBooks" class="section-padding">
-      <div class="container">
-        <div class="row">
-          <div class="header-section text-center">
-            <h2>Sanitary napkin</h2>
-            <p>We plan to bring lots of new products in future<br>Sign Up and stay with us</p>
-            <hr class="bottom-line">
-          </div>
-       <div class="col-md-4 col-sm-6 padleft-right">
-            <figure class="imghvr-fold-up">
-              <img src="Image/san1.png"  class="img-responsive">
-              <figcaption>
-                  <h3>Joya Sanitary Napkin</h3>
-                  <p>Joya Sanitary Napkin was launched in 2013. It is one of the most popular sanitary napkin brands in Bangladesh. It is a high-quality product which offers great value for money and is also the first scented sanitary napkin in the country. Joya defies taboos associated with menstruation and inspires women to move forward in life. “পিছিয়ে থাকবো না” is the slogan of this brand.
+<!--                card-apollo-->
+<div class="col-md-6 col-lg-3">
+                 <div class="card">
+                     <div class="card-header card_custom_header1 text-center">
+                     <span>Joya Sanitary Napkin</span><span class="card_img"> <img src="" class="imh-fluid" alt=""> </span>
+  </div>
+                    <img class="card-img-top" src="Image/san4.jpg">
+                    <div class="card-block">
+                        <figure class="profile">
+                            <img src="" class="profile-avatar" alt="">
+                        </figure>
+                        <h4 class="card-title text-center mt-3 "><a href=""></a></h4>
+                       
+                        <div class="card-text text-center">
+                            Joya Sanitary Napkin is available in five variants – Belt, Wings Regular Flow, Ultra Comfort Wings, Extra Heavy Flow Wings and All Night Wings. 
+                        </div>
+                    </div>
+                    <div class="card-footer text-center">
+                       <span class="float-left leftone"></span>
+                       <span>Price : 160 Taka</span>
+                       <span class="float-right rightone"></span>
+                    </div>
+                </div>
+            </div>
+<!--            card-apollo-->
 
-Joya sanitary napkin is manufactured according to the highest standard at SMC’s own state-of-the-art Health and Hygiene Products factory. The key raw materials used in manufacturing the products are of the highest quality which was imported from USA, Canada, Germany and Japan. To offer a broader option for the users, Joya Sanitary Napkin is available in five variants – Belt, Wings Regular Flow, Ultra Comfort Wings, Extra Heavy Flow Wings and All Night Wings.  </p>
-              </figcaption>
-              <a href="#"></a>
-            </figure>
-          </div> 
+<!--                card-apollo-->
+<div class="col-md-6 col-lg-3">
+                 <div class="card">
+                     <div class="card-header card_custom_header1 text-center">
+                     <span>Joya Sanitary Napkin</span><span class="card_img"> <img src="" class="imh-fluid" alt=""> </span>
+  </div>
+                    <img class="card-img-top" src="Image/san5.jpeg">
+                    <div class="card-block">
+                        <figure class="profile">
+                            <img src="" class="profile-avatar" alt="">
+                        </figure>
+                        <h4 class="card-title text-center mt-3 "><a href=""></a></h4>
+                       
+                        <div class="card-text text-center">
+                            Joya Sanitary Napkin is available in five variants – Belt, Wings Regular Flow, Ultra Comfort Wings, Extra Heavy Flow Wings and All Night Wings. 
+                        </div>
+                    </div>
+                    <div class="card-footer text-center">
+                       <span class="float-left leftone"></span>
+                       <span>Price : 160 Taka</span>
+                       <span class="float-right rightone"></span>
+                    </div>
+                </div>
+            </div>
+<!--            card-apollo-->
 
+<!--                card-apollo-->
+<div class="col-md-6 col-lg-3">
+                 <div class="card">
+                     <div class="card-header card_custom_header1 text-center">
+                     <span>Joya Sanitary Napkin</span><span class="card_img"> <img src="" class="imh-fluid" alt=""> </span>
+  </div>
+                    <img class="card-img-top" src="Image/san6.jpg">
+                    <div class="card-block">
+                        <figure class="profile">
+                            <img src="" class="profile-avatar" alt="">
+                        </figure>
+                        <h4 class="card-title text-center mt-3 "><a href=""></a></h4>
+                       
+                        <div class="card-text text-center">
+                            Joya Sanitary Napkin is available in five variants – Belt, Wings Regular Flow, Ultra Comfort Wings, Extra Heavy Flow Wings and All Night Wings. 
+                        </div>
+                    </div>
+                    <div class="card-footer text-center">
+                       <span class="float-left leftone"></span>
+                       <span>Price : 160 Taka</span>
+                       <span class="float-right rightone"></span>
+                    </div>
+                </div>
+            </div>
+<!--            card-apollo-->
+           
+           
+           
+           
+            </div>
+         
+            
+        </div>
+  
+    
+</section>
 
-    <!--Pads-->
-    <section id="newBooks" class="section-padding">
-      <div class="container">
-        <div class="row">
-          <div class="header-section text-center">
-            <h2>Sanitary napkin</h2>
-            <p>We plan to bring lots of new products in future<br>Sign Up and stay with us</p>
-            <hr class="bottom-line">
-          </div>
-       <div class="col-md-4 col-sm-6 padleft-right">
-            <figure class="imghvr-fold-up">
-              <img src="Image/san1.png"  class="img-responsive">
-              <figcaption>
-                  <h3>Joya Sanitary Napkin</h3>
-                  <p>Joya Sanitary Napkin was launched in 2013. It is one of the most popular sanitary napkin brands in Bangladesh. It is a high-quality product which offers great value for money and is also the first scented sanitary napkin in the country. Joya defies taboos associated with menstruation and inspires women to move forward in life. “পিছিয়ে থাকবো না” is the slogan of this brand.
-
-Joya sanitary napkin is manufactured according to the highest standard at SMC’s own state-of-the-art Health and Hygiene Products factory. The key raw materials used in manufacturing the products are of the highest quality which was imported from USA, Canada, Germany and Japan. To offer a broader option for the users, Joya Sanitary Napkin is available in five variants – Belt, Wings Regular Flow, Ultra Comfort Wings, Extra Heavy Flow Wings and All Night Wings.  </p>
-              </figcaption>
-              <a href="#"></a>
-            </figure>
-          </div>                     
-
+<!--  hospital end-->
 
 
 
@@ -169,7 +292,7 @@ Joya sanitary napkin is manufactured according to the highest standard at SMC’
 .ftr-bg{
   background: #E9DCC9;
   border-top: 1px solid rgba(214, 195, 167, 0.34);
-  position: fixed;
+  position: ;
   left: 0;
   bottom: 0;
   width: 100%;
@@ -226,4 +349,3 @@ Joya sanitary napkin is manufactured according to the highest standard at SMC’
 
 
 </style>
-s
