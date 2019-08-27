@@ -73,12 +73,25 @@ Users need to create id using His/her Name, Phone Number. After login, they can 
 
 ![PersonalNotss](https://user-images.githubusercontent.com/51367124/63728676-55131e80-c886-11e9-892f-97a62f1fa9b2.jpg)
 
+**Products:**
+All kind of senitary pads will be avilable here with reasonable price . Users can add them in chart and after they can complete
+the online payment process
+![chr1](https://user-images.githubusercontent.com/51367124/63744419-19e21100-c8c1-11e9-8a44-b0d1f9d92aec.jpg)
+![car2](https://user-images.githubusercontent.com/51367124/63744425-1f3f5b80-c8c1-11e9-86eb-81462d3a7881.jpg)
+![char3](https://user-images.githubusercontent.com/51367124/63744427-223a4c00-c8c1-11e9-825b-10f6603456ff.jpg)
+
 **Delivery Systems:**
 Home delivery
+
+![online delivary](https://user-images.githubusercontent.com/51367124/63744398-0d5db880-c8c1-11e9-9137-e0256cebffff.jpg)
+
 
 **Online Payment System**
 
 Local Online Payments, Cards f) Help and Support: 24/7 online support
+
+![CheckOut Bill](https://user-images.githubusercontent.com/51367124/63744433-249ca600-c8c1-11e9-84ce-c4a4dd42d63f.jpg)
+
 
 **About Us:**
 
@@ -97,6 +110,11 @@ In this part there will be information about how to contact us and also there wi
 **Technology:**
 
  HTML, CSS, JAVASCRIPT, BOOTSTARPS, MYSQL, PHP, DATABASE, JAVASCRIPT, Frame Work.
+ 
+ ![image](https://user-images.githubusercontent.com/51367124/63745137-4139dd80-c8c3-11e9-9031-c9c8aa7e2e1d.png)
+ ![image](https://user-images.githubusercontent.com/51367124/63745332-c58c6080-c8c3-11e9-975b-ed1140006d99.png)
+ 
+ 
 
 **Business Plan:**
 
@@ -104,3 +122,31 @@ a) We will add some minimum charge for maintain our website. We will add some ex
 b) We will show ad in our website using Google AdSense. 
 c) Users can pay online directly using their Credit / Debit cards. 
 d) Users can pay using their Bkash/Ukash/Rocket accounts.
+
+
+![CheckOut Bill](https://user-images.githubusercontent.com/51367124/63744433-249ca600-c8c1-11e9-84ce-c4a4dd42d63f.jpg)
+
+**What we didn't do:**
+1.Not able to finish the calender remainder.
+2.Transaction process was 60% finished
+3.Faced problems in database reason is lack of knowladge.
+4.Have some error in admin panel.
+
+
+**Resource:**
+
+1.https://getbootstrap.com/docs/4.3/examples/starter-template/
+
+2.https://www.w3schools.com/
+
+3.https://www.youtube.com/
+
+4.https://stackoverflow.com/questions/22138746/php-form-not-inserting-into-mysql-database
+
+5.https://www.google.com/search?q=html+color+picker&oq=html+&aqs=chrome.0.69i59j69i57j69i60j69i65l2j69i60.3167j0j7&sourceid=chrome&ie=UTF-8
+
+6.https://www.geeksforgeeks.org/
+
+7.https://www.youtube.com/watch?v=q2VV3-yWupU
+
+8.https://bitbucket.org/webeasystep/markers_manager_php_mysql/src/master/
